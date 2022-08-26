@@ -9,7 +9,6 @@
 
 // Reminder: The test will call your function
 // Run the file with the following command: $ yarn jest
-//
 
 // --------------------1) Create a function that takes in an array, removes the first item from the array and shuffles the remaining content.
 
